@@ -530,6 +530,12 @@ h6,
 #msg-box8-r .mbr-section-title {
   font-size: 36px;
 }
+#contacts2-q P {
+  font-size: 14px;
+}
+#contacts2-q UL {
+  font-size: 20px;
+}
 #form1-u .form-control-label {
   color: #ffffff;
 }

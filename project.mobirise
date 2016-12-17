@@ -21,7 +21,7 @@
       }
     },
     "versionFirst": "3.10.1",
-    "uniqCompNum": 56,
+    "uniqCompNum": 57,
     "versionPublish": "3.10.3",
     "favicon": "",
     "noImageResize": "",
@@ -514,10 +514,10 @@
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/1-2000x2000-17-800x800-49.jpg",
-                "image": "@PROJECT_PATH@/assets/images/1-2000x2000-17.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/1-2000x2000-5-800x800-22.jpg",
+                "image": "@PROJECT_PATH@/assets/images/1-2000x2000-5.jpg",
                 "caption": "Type caption here",
-                "active": false
+                "active": true
               },
               {
                 "tags": "Responsive",
@@ -597,7 +597,7 @@
                 "thumb": "@PROJECT_PATH@/assets/images/20161214-122539-2000x2739-75-800x1095-2.jpg",
                 "image": "@PROJECT_PATH@/assets/images/20161214-122539-2000x2739-75.jpg",
                 "caption": "Type caption here",
-                "active": true
+                "active": false
               }
             ],
             "spacing": "1",
@@ -872,14 +872,22 @@
             "overlayOpacity": 0.8,
             "overlayColor": "#3C3C3C",
             "googleMap": {
-              "address": "Uherce Mineralne 10 c",
-              "placeId": "ChIJ4e14NqQKPEcRS2e3JQ2hgHg",
+              "address": "Uherce Mineralne",
+              "placeId": "ChIJaYieplj1O0cRb2H-R4QfhOk",
               "state": "ok",
               "stateDetails": ""
             }
           },
           "text1": "<strong>Addres</strong><br>\nUherce Mineralne&nbsp;<br>38-623 Uherce Mineralne<br><br><br><font color=\"#7c7c7c\" face=\"Montserrat, sans-serif\" size=\"3\"><span style=\"letter-spacing: -1px; line-height: 20px;\"><b>Kontakt</b></span></font><br>Piotr Bębenek<br>Email: piotr_bebenek@poczta.fm<br>Telefon: 888 222 718",
-          "text2": "<p><br></p><p><br></p><p><br></p><ul><li><a href=\"page1.html\" target=\"_blank\">Kliknij tutaj i wypełnij formularz kontaktowy, a skontaktujemy się z Tobą do 24h</a></li><br></ul><p></p>"
+          "text2": "<p><br></p><p><br></p><p><br></p><ul><li><b><a href=\"page1.html\" target=\"_blank\">Kliknij tutaj i wypełnij formularz kontaktowy, a skontaktujemy się z Tobą do 24h</a></b></li><br></ul><p></p>",
+          "_styles": {
+            "P": {
+              "font-size": "14px"
+            },
+            "UL": {
+              "font-size": "20px"
+            }
+          }
         }
       ]
     },
