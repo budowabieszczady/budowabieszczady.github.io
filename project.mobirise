@@ -21,7 +21,7 @@
       }
     },
     "versionFirst": "3.10.1",
-    "uniqCompNum": 57,
+    "uniqCompNum": 58,
     "versionPublish": "3.10.3",
     "favicon": "",
     "noImageResize": "",
@@ -517,16 +517,6 @@
                 "thumb": "@PROJECT_PATH@/assets/images/1-2000x2000-5-800x800-22.jpg",
                 "image": "@PROJECT_PATH@/assets/images/1-2000x2000-5.jpg",
                 "caption": "Type caption here",
-                "active": true
-              },
-              {
-                "tags": "Responsive",
-                "playVideo": false,
-                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
-                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/2-2000x2000-19-800x800-81.jpg",
-                "image": "@PROJECT_PATH@/assets/images/2-2000x2000-19.jpg",
-                "caption": "Type caption here",
                 "active": false
               },
               {
@@ -534,8 +524,8 @@
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/3-2000x2000-20-800x800-80.jpg",
-                "image": "@PROJECT_PATH@/assets/images/3-2000x2000-20.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/deski-2000x2000-46-800x800-1.jpg",
+                "image": "@PROJECT_PATH@/assets/images/deski-2000x2000-46.jpg",
                 "caption": "Type caption here",
                 "active": false
               },
@@ -594,10 +584,10 @@
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/20161214-122539-2000x2739-75-800x1095-2.jpg",
-                "image": "@PROJECT_PATH@/assets/images/20161214-122539-2000x2739-75.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/20161214-122539-2000x2000-89-800x800-44.jpg",
+                "image": "@PROJECT_PATH@/assets/images/20161214-122539-2000x2000-89.jpg",
                 "caption": "Type caption here",
-                "active": false
+                "active": true
               }
             ],
             "spacing": "1",
@@ -769,28 +759,8 @@
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/zdjcie0454-2000x2745-20-800x1098-87.jpg",
-                "image": "@PROJECT_PATH@/assets/images/zdjcie0454-2000x2745-20.jpg",
-                "caption": "Type caption here",
-                "active": false
-              },
-              {
-                "tags": "Responsive",
-                "playVideo": false,
-                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
-                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/zdjcie0465-2000x2745-53-800x1098-5.jpg",
-                "image": "@PROJECT_PATH@/assets/images/zdjcie0465-2000x2745-53.jpg",
-                "caption": "Type caption here",
-                "active": false
-              },
-              {
-                "tags": "Animated",
-                "playVideo": false,
-                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
-                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/zdjcie0460-2000x2745-55-800x1098-98.jpg",
-                "image": "@PROJECT_PATH@/assets/images/zdjcie0460-2000x2745-55.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/pexels-photo-64410-2000x1500-61-800x600-36.png",
+                "image": "@PROJECT_PATH@/assets/images/pexels-photo-64410-2000x1500-61.png",
                 "caption": "Type caption here",
                 "active": false
               },
@@ -799,8 +769,28 @@
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/zdjcie0456-2000x2734-54-800x1093-74.jpg",
-                "image": "@PROJECT_PATH@/assets/images/zdjcie0456-2000x2734-54.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/bathroom-881124-1920-2000x1500-39-800x600-19.jpg",
+                "image": "@PROJECT_PATH@/assets/images/bathroom-881124-1920-2000x1500-39.jpg",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "Beautiful",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/site-245482-1920-2000x1197-5-800x478-28.jpg",
+                "image": "@PROJECT_PATH@/assets/images/site-245482-1920-2000x1197-5.jpg",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "Beautiful",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/11-2000x1372-6-800x548-63.jpg",
+                "image": "@PROJECT_PATH@/assets/images/11-2000x1372-6.jpg",
                 "caption": "Type caption here",
                 "active": true
               }
@@ -859,6 +849,14 @@
             "Theme"
           ],
           "_name": "contacts2",
+          "_styles": {
+            "P": {
+              "font-size": "14px"
+            },
+            "UL": {
+              "font-size": "20px"
+            }
+          },
           "_anchor": "contacts2-q",
           "_params": {
             "paddingTop": "2",
@@ -878,16 +876,8 @@
               "stateDetails": ""
             }
           },
-          "text1": "<strong>Addres</strong><br>\nUherce Mineralne&nbsp;<br>38-623 Uherce Mineralne<br><br><br><font color=\"#7c7c7c\" face=\"Montserrat, sans-serif\" size=\"3\"><span style=\"letter-spacing: -1px; line-height: 20px;\"><b>Kontakt</b></span></font><br>Piotr Bębenek<br>Email: piotr_bebenek@poczta.fm<br>Telefon: 888 222 718",
-          "text2": "<p><br></p><p><br></p><p><br></p><ul><li><b><a href=\"page1.html\" target=\"_blank\">Kliknij tutaj i wypełnij formularz kontaktowy, a skontaktujemy się z Tobą do 24h</a></b></li><br></ul><p></p>",
-          "_styles": {
-            "P": {
-              "font-size": "14px"
-            },
-            "UL": {
-              "font-size": "20px"
-            }
-          }
+          "text1": "<strong>Addres</strong><br>\nUherce Mineralne<br>38-623 Uherce Mineralne<br><br><br><font color=\"#7c7c7c\" face=\"Montserrat, sans-serif\" size=\"3\"><span style=\"letter-spacing: -1px; line-height: 20px;\"><b>Kontakt</b></span></font><br>Dina Bębenek<br>Email: piotr_bebenek@poczta.fm<br>Telefon: 888 222 718",
+          "text2": "<p><br></p><p><br></p><p><br></p><ul><li><a href=\"page1.html\" target=\"_blank\"><b>Kliknij tutaj i wypełnij formularz kontaktowy, a skontaktujemy się z Tobą do 24h</b></a></li><br></ul><p></p>"
         }
       ]
     },
@@ -1149,14 +1139,14 @@
             "overlayOpacity": 0.8,
             "overlayColor": "#3C3C3C",
             "googleMap": {
-              "address": "Uherce Mineralne 10 c",
-              "placeId": "ChIJ4e14NqQKPEcRS2e3JQ2hgHg",
+              "address": "Uherce Mineralne",
+              "placeId": "ChIJaYieplj1O0cRb2H-R4QfhOk",
               "state": "ok",
               "stateDetails": ""
             }
           },
-          "text1": "<strong>Addres</strong><br>\nUherce Mineralne 10<br>38-623 Uherce Mineralne<br><br><br><font color=\"#7c7c7c\" face=\"Montserrat, sans-serif\" size=\"3\"><span style=\"letter-spacing: -1px; line-height: 20px;\"><b>Kontakt</b></span></font><br>Piotr Bębenek<br>Email: piotr_bebenek@poczta.fm<br>Telefon: 888 222 718",
-          "text2": "<p><br></p><p><br></p><p><br></p><ul><li><a href=\"page1.html\" target=\"_blank\">Kliknij tutaj i wypełnij formularz kontaktowy, a skontaktujemy się z Tobą do 24h</a></li><br></ul><p></p>"
+          "text1": "<strong>Addres</strong><br>\nUherce Mineralne<br>38-623 Uherce Mineralne<br><br><br><font color=\"#7c7c7c\" face=\"Montserrat, sans-serif\" size=\"3\"><span style=\"letter-spacing: -1px; line-height: 20px;\"><b>Kontakt</b></span></font><br>Dina Bębenek<br>Email: piotr_bebenek@poczta.fm<br>Telefon: 888 222 718",
+          "text2": "<p><br></p><p><br></p><p><br></p><ul><li><a href=\"page1.html\" target=\"_blank\"><b>Kliknij tutaj i wypełnij formularz kontaktowy, a skontaktujemy się z Tobą do 24h</b></a></li><br></ul><p></p>"
         }
       ]
     }
