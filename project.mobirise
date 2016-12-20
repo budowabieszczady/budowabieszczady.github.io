@@ -21,7 +21,7 @@
       }
     },
     "versionFirst": "3.10.1",
-    "uniqCompNum": 58,
+    "uniqCompNum": 62,
     "versionPublish": "3.10.3",
     "favicon": "",
     "noImageResize": "",
@@ -335,8 +335,8 @@
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/zdjcie0556-2000x1500-17-2000x1500-54.jpg",
-                "image": "@PROJECT_PATH@/assets/images/zdjcie0556-2000x1500-17.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/29-2000x1500-51-800x600-40.png",
+                "image": "@PROJECT_PATH@/assets/images/29-2000x1500-51.png",
                 "caption": "Type caption here",
                 "active": false
               },
@@ -345,8 +345,8 @@
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/zdjcie0414-2000x1500-45-2000x1500-51.jpg",
-                "image": "@PROJECT_PATH@/assets/images/zdjcie0414-2000x1500-45.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/zdjcie04121-2000x1500-21-800x600-48.jpg",
+                "image": "@PROJECT_PATH@/assets/images/zdjcie04121-2000x1500-21.jpg",
                 "caption": "Type caption here",
                 "active": false
               },
@@ -355,8 +355,8 @@
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/zdjcie0416-2000x2062-54-2000x2062-7.jpg",
-                "image": "@PROJECT_PATH@/assets/images/zdjcie0416-2000x2062-54.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/zdjcie0416-2000x1500-74-800x600-17.jpg",
+                "image": "@PROJECT_PATH@/assets/images/zdjcie0416-2000x1500-74.jpg",
                 "caption": "Type caption here",
                 "active": false
               },
@@ -365,18 +365,8 @@
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/20160903-181215-2000x1125-64-2000x1125-42.jpg",
-                "image": "@PROJECT_PATH@/assets/images/20160903-181215-2000x1125-64.jpg",
-                "caption": "Type caption here",
-                "active": false
-              },
-              {
-                "tags": "Animated",
-                "playVideo": false,
-                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
-                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/zdjcie04121-2000x1500-73-2000x1500-15.jpg",
-                "image": "@PROJECT_PATH@/assets/images/zdjcie04121-2000x1500-73.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/preeria-home-1820916-1280-2000x1500-83-800x600-4.jpg",
+                "image": "@PROJECT_PATH@/assets/images/preeria-home-1820916-1280-2000x1500-83.jpg",
                 "caption": "Type caption here",
                 "active": false
               },
@@ -385,20 +375,80 @@
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/zdjcie02441-2000x1447-62-800x578-23.jpg",
-                "image": "@PROJECT_PATH@/assets/images/zdjcie02441-2000x1447-62.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/passive-home-1820901-1920-2000x1500-25-800x600-11.jpg",
+                "image": "@PROJECT_PATH@/assets/images/passive-home-1820901-1920-2000x1500-25.jpg",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "Responsive",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/single-family-home-1026368-1920-2000x1500-6-800x600-42.jpg",
+                "image": "@PROJECT_PATH@/assets/images/single-family-home-1026368-1920-2000x1500-6.jpg",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "Creative",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/single-family-home-1026371-1920-2000x1500-45-800x600-77.jpg",
+                "image": "@PROJECT_PATH@/assets/images/single-family-home-1026371-1920-2000x1500-45.jpg",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "Creative",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/zdjcie0277-2000x1500-17-800x600-6.jpg",
+                "image": "@PROJECT_PATH@/assets/images/zdjcie0277-2000x1500-17.jpg",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "Creative",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/zdjcie0244-2000x1500-61-800x600-94.jpg",
+                "image": "@PROJECT_PATH@/assets/images/zdjcie0244-2000x1500-61.jpg",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "Creative",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/2-2000x1500-83-800x600-81.png",
+                "image": "@PROJECT_PATH@/assets/images/2-2000x1500-83.png",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "Creative",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/20160903-181215-2000x1500-70-800x600-14.jpg",
+                "image": "@PROJECT_PATH@/assets/images/20160903-181215-2000x1500-70.jpg",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "Creative",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/zdjcie0556-2000x1500-32-800x600-49.jpg",
+                "image": "@PROJECT_PATH@/assets/images/zdjcie0556-2000x1500-32.jpg",
                 "caption": "Type caption here",
                 "active": true
-              },
-              {
-                "tags": "Responsive",
-                "playVideo": false,
-                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
-                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/zdjcie0277-2000x1500-38-800x600-38.jpg",
-                "image": "@PROJECT_PATH@/assets/images/zdjcie0277-2000x1500-38.jpg",
-                "caption": "Type caption here",
-                "active": false
               }
             ],
             "spacing": "1",
