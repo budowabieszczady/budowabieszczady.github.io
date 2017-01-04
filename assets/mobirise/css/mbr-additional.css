@@ -606,12 +606,50 @@ h6,
 #menu-2 .btn {
   font-size: 10px;
 }
-#pricing-table1-11 .mbr-section__container .mbr-section-title {
-  color: #ffffff;
+#msg-box8-1v .mbr-section-title,
+#msg-box8-1v p {
+  color: #fff;
 }
-#pricing-table1-11 .mbr-section__container .mbr-section-subtitle {
-  color: #a0a0a0;
+#features1-1u .striped .mbr-cards-col:nth-child(2n+1) {
+  background-color: #2e2e2e;
 }
-#pricing-table1-11 .mbr-price-figure {
-  font-size: 60px;
+#features1-1u .mbr-cards-col:nth-child(odd) .card-title {
+  font-size: 22px;
+}
+#features1-1u .mbr-cards-col:nth-child(odd) .card-subtitle {
+  font-size: 20px;
+}
+#features1-1u .mbr-cards-col:nth-child(odd) .card-text {
+  text-align: center;
+  font-size: 12px;
+}
+#features1-1u .mbr-cards-col:nth-child(even) .card-text {
+  font-size: 12px;
+}
+#features1-1u .mbr-cards-col:nth-child(even) .card-title {
+  font-size: 22px;
+}
+#features1-1u .mbr-cards-col:nth-child(even) .card-subtitle {
+  font-size: 20px;
+}
+#features1-1x .striped .mbr-cards-col:nth-child(2n+1) {
+  background-color: #2e2e2e;
+}
+#features1-1x .mbr-cards-col:nth-child(odd) .card-title {
+  font-size: 22px;
+}
+#features1-1x .mbr-cards-col:nth-child(odd) .card-subtitle {
+  font-size: 20px;
+}
+#features1-1x .mbr-cards-col:nth-child(even) .card-text {
+  font-size: 12px;
+}
+#features1-1x .mbr-cards-col:nth-child(odd) .card-text {
+  font-size: 12px;
+}
+#features1-1x .mbr-cards-col:nth-child(even) .card-subtitle {
+  font-size: 20px;
+}
+#features1-1x .mbr-cards-col:nth-child(even) .card-title {
+  font-size: 22px;
 }

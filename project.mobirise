@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "DIPTEAM",
-    "currentPage": "index.html",
+    "currentPage": "page2.html",
     "theme": {
       "name": "mobirise3",
       "title": "Mobirise 3",
@@ -21,7 +21,7 @@
       }
     },
     "versionFirst": "3.10.1",
-    "uniqCompNum": 62,
+    "uniqCompNum": 70,
     "versionPublish": "3.10.3",
     "favicon": "",
     "noImageResize": "",
@@ -926,7 +926,7 @@
               "stateDetails": ""
             }
           },
-          "text1": "<strong>Addres</strong><br>\nUherce Mineralne<br>38-623 Uherce Mineralne<br><br><br><font color=\"#7c7c7c\" face=\"Montserrat, sans-serif\" size=\"3\"><span style=\"letter-spacing: -1px; line-height: 20px;\"><b>Kontakt</b></span></font><br>Dina Bębenek<br>Email: piotr_bebenek@poczta.fm<br>Telefon: 888 222 718",
+          "text1": "<strong>Adres</strong><br>\nUherce Mineralne<br>38-623 Uherce Mineralne<br><br><br><font color=\"#7c7c7c\" face=\"Montserrat, sans-serif\" size=\"3\"><span style=\"letter-spacing: -1px; line-height: 20px;\"><b>Kontakt</b></span></font><br>Dina Bębenek<br>Email: piotr_bebenek@poczta.fm<br>Telefon: 888 222 718",
           "text2": "<p><br></p><p><br></p><p><br></p><ul><li><a href=\"page1.html\" target=\"_blank\"><b>Kliknij tutaj i wypełnij formularz kontaktowy, a skontaktujemy się z Tobą do 24h</b></a></li><br></ul><p></p>"
         }
       ]
@@ -1094,28 +1094,52 @@
         },
         {
           "_styles": {
-            ".mbr-section__container .mbr-section-title": {
-              "color": "#ffffff"
-            },
-            ".mbr-section__container .mbr-section-subtitle": {
-              "color": "#a0a0a0"
-            },
-            ".mbr-price-figure": {
-              "font-size": "60px"
+            ".mbr-section-title, p": {
+              "color": "#fff"
             }
           },
           "_tags": [
             "Theme"
           ],
-          "_name": "pricing-table1",
-          "_anchor": "pricing-table1-11",
+          "_name": "msg-box8",
+          "_anchor": "msg-box8-1v",
           "_params": {
             "paddingTop": "3",
-            "paddingBottom": 3,
+            "paddingBottom": "1",
+            "parallax": true,
+            "bgImageRadio": false,
+            "bgImage": "@PROJECT_PATH@/assets/images/floor-1256804-1920-2000x1122-45.jpg",
+            "bgColor": "#000000",
+            "bgColorRadio": true,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "bgVideoRadio": false,
+            "overlay": true,
+            "overlayOpacity": 0.5,
+            "overlayColor": "#222",
+            "showTitle": true,
+            "showText": true,
+            "showButton": true
+          },
+          "title": "WYPOŻYCZALNIA SPRZĘTU BUDOWLANEGO",
+          "text": "<p>Wybierz sprzęt, którego potrzebujesz i skontaktuj się z nami.</p>",
+          "button": "<a data-app-btn=\"true\" class=\"btn btn-black\" href=\"page2.html#contacts2-x\" data-toolbar=\"-mbrBtnMove\">KONTAKT</a> "
+        },
+        {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "features1",
+          "_anchor": "features1-1u",
+          "_params": {
+            "columnsColor": "#2e2e2e",
+            "paddingTop": "1",
+            "paddingBottom": "1",
             "bgImageRadio": false,
             "parallax": true,
             "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
-            "bgColor": "#000000",
+            "bgColor": "#fff",
             "bgColorRadio": true,
             "bgVideo": {
               "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
@@ -1124,52 +1148,266 @@
             "overlay": false,
             "overlayOpacity": 0.5,
             "overlayColor": "#222",
-            "showTitle": true,
-            "showSubtitle": true,
-            "firstType": "",
-            "showButtons": false,
-            "secondType": "bg-primary",
-            "thirdType": "",
-            "fourthType": ""
+            "columns": 4,
+            "showImages": true,
+            "showTitles": true,
+            "showSubtitles": true,
+            "ShowTexts": true,
+            "showButtons": false
           },
-          "title": "WYPOŻYCZALNIA SPRZĘTU <br>BUDOWLANEGO",
-          "subtitle": "Wybierz sprzęt, który potrzebujesz i skontaktuj się z nami.",
-          "label1": "HOT!",
-          "title1": "AGREGAT<br>PRĄDOTWÓRCZY",
-          "subtitle1": "",
-          "currency1": "",
-          "price1": "30zł",
-          "period1": "/doba.",
-          "description1": "OPIS JAKIŚTAM",
-          "list1": "<ul class=\"list-group list-group-flush\"><li class=\"list-group-item\">PARAMETRY</li><li class=\"list-group-item\">PARAMETRY</li><li class=\"list-group-item\">PARAMETRY</li></ul>",
-          "button1": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-white btn-white-outline\" data-toolbar=\"-mbrBtnMove\">DEMO</a>",
-          "label2": "OKAZJA!",
-          "title2": "PROFESJONALNE<br>RUSZTOWANIE",
-          "subtitle2": "",
-          "currency2": "",
-          "price2": "90zł",
-          "period2": "/doba.",
-          "description2": "OPIS JAKISTAM",
-          "list2": "<ul class=\"list-group list-group-flush\"><li class=\"list-group-item\">PARAMETRY</li><li class=\"list-group-item\">PARAMETRY</li><li class=\"list-group-item\">PARAMETRY</li></ul>",
-          "button2": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-white btn-white-outline\">DEMO</a>",
-          "label3": "HOT!",
-          "title3": "SPRĘŻARKA",
-          "subtitle3": "",
-          "currency3": "",
-          "price3": "40zł",
-          "period3": "/doba.",
-          "description3": "opis jakistam",
-          "list3": "<ul class=\"list-group list-group-flush\"><li class=\"list-group-item\">PARAMETRY</li><li class=\"list-group-item\">PARAMETRY</li><li class=\"list-group-item\">PARAMETRY</li></ul>",
-          "button3": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-white btn-white-outline\">DEMO</a>",
-          "label4": "HOT!",
-          "title4": "PRZECINARKA <br>DO GLAZURY",
-          "subtitle4": "",
-          "currency4": "",
-          "price4": "40zł",
-          "period4": "/doba.",
-          "description4": "opis jakistam",
-          "list4": "<ul class=\"list-group list-group-flush\"><li class=\"list-group-item\">PARAMETRY</li><li class=\"list-group-item\">PARAMETRY</li><li class=\"list-group-item\">PARAMETRY</li></ul>",
-          "button4": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-white btn-white-outline\">DEMO</a>"
+          "media1": {
+            "image": {
+              "src": "@PROJECT_PATH@/assets/images/wkretarki-600x450-99.jpg",
+              "class": "card-img-top",
+              "width": 600,
+              "active": true,
+              "link": "",
+              "alt": "",
+              "title": "",
+              "linkInNewWindow": false
+            }
+          },
+          "title1": "WKRĘTARKI",
+          "subtitle1": "Zestaw CLX201X",
+          "caption1": "Parametry:<br><br>Wkrętarko-wiertarka DF331D oraz&nbsp;Wkrętarka udarowa TD110D<br>    Wyposażone w mocne silniki oraz wytrzymałe baterie.<br>Urządzenia ultra lekkie,.<br><span style=\"line-height: 1.5;\">Regulacja prędkości obrotowej spustem włącznika</span><br>    Dioda LED oświetlająca obszar roboczy<br>Technologia CXT - Compact Extreme Technology<br><br><br>CENA: 30zł/doba",
+          "button1": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
+          "media2": {
+            "image": {
+              "src": "@PROJECT_PATH@/assets/images/drabina-600x383-21.jpg",
+              "class": "card-img-top",
+              "width": 600,
+              "active": true,
+              "link": "",
+              "alt": "",
+              "title": "",
+              "linkInNewWindow": false
+            }
+          },
+          "title2": "DRABINA ALUMINIOWA",
+          "subtitle2": "<span style=\"line-height: 1.7857;\">3x11</span><br>",
+          "caption2": "Parametry:<br><br>Długość transportowa (po złożeniu):<br>Długość drabiny (po rozłożeniu):<br>Zasięg roboczy:&nbsp;<br>Waga: <br>Szerokość stabilizatora:<br><br><br>CENA: 20zł/doba<br>&nbsp;",
+          "button2": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
+          "media3": {
+            "image": {
+              "src": "@PROJECT_PATH@/assets/images/gwozdz-600x426-98.jpg",
+              "class": "card-img-top",
+              "width": 600,
+              "active": true,
+              "link": "",
+              "alt": "",
+              "title": "",
+              "linkInNewWindow": false
+            }
+          },
+          "title3": "Gwoździarka pneumatyczna",
+          "subtitle3": "MAKITA AF505N",
+          "caption3": "<span style=\"line-height: 1.5;\">Parametry:</span><br><br><span style=\"line-height: 1.5;\">Typ zasilania: pneumatyczne</span><br>    Max ciśnienie robocze: 7,8 bar<br>    Walizka transportowa: tak<br>    Max długość robocza: 50 mm<br>    Pojemność magazynka: 100<br>    Masa: 1,4 kg<br><br><br>CENA: &nbsp;35zł/doba<br><br>",
+          "button3": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
+          "media4": {
+            "image": {
+              "src": "@PROJECT_PATH@/assets/images/agregat-600x450-53.jpg",
+              "class": "card-img-top",
+              "width": 600,
+              "active": true,
+              "link": "",
+              "alt": "",
+              "title": "",
+              "linkInNewWindow": false
+            }
+          },
+          "title4": "AGREGAT PRĄDOTWÓRCZY",
+          "subtitle4": "EUROTEC QF101-2.5",
+          "caption4": "Parametry:<br><br>Moc \t2,8KW / 3,4HP<br>Waga \t35kg<br>Zasilanie \t230V / 50Hz<br>Pojemność \tpaliwa 15 l oleju 0,l<br>Zużycie \t0,8 l<br>Rozruch \tręczny<br>Poziom hałasu \t90db<br><br><br>CENA: 80zł/doba",
+          "button4": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
+          "media5": {
+            "image": {
+              "src": "@THEME_PATH@/components/_images/gallery/windows-books.jpg",
+              "class": "card-img-top",
+              "width": 600,
+              "active": true
+            }
+          },
+          "title5": "Trendy Website Blocks",
+          "subtitle5": "Choose from the large selection of blocks",
+          "caption5": "Choose from the large selection of latest pre-made blocks - jumbotrons, hero images, parallax scrolling, video backgrounds, hamburger menu, sticky header and more.",
+          "button5": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
+          "media6": {
+            "image": {
+              "src": "@THEME_PATH@/components/_images/gallery/room-laptop.jpg",
+              "class": "card-img-top",
+              "width": 600,
+              "active": true
+            }
+          },
+          "title6": "Host Anywhere",
+          "subtitle6": "Don't limit yourself to just one platform",
+          "caption6": "Publish your website to a local drive, FTP or host on Amazon S3, Google Drive, Github. Don't limit yourself to just one platform or service provider.",
+          "button6": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
+          "_styles": {
+            ".striped .mbr-cards-col:nth-child(2n+1)": {
+              "background-color": "#2e2e2e"
+            },
+            ".mbr-cards-col:nth-child(odd) .card-title": {
+              "font-size": "22px"
+            },
+            ".mbr-cards-col:nth-child(odd) .card-subtitle": {
+              "font-size": "20px"
+            },
+            ".mbr-cards-col:nth-child(odd) .card-text": {
+              "text-align": "center",
+              "font-size": "12px"
+            },
+            ".mbr-cards-col:nth-child(even) .card-text": {
+              "font-size": "12px"
+            },
+            ".mbr-cards-col:nth-child(even) .card-title": {
+              "font-size": "22px"
+            },
+            ".mbr-cards-col:nth-child(even) .card-subtitle": {
+              "font-size": "20px"
+            }
+          }
+        },
+        {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "features1",
+          "_anchor": "features1-1x",
+          "_params": {
+            "columnsColor": "#2e2e2e",
+            "paddingTop": "1",
+            "paddingBottom": "1",
+            "bgImageRadio": false,
+            "parallax": true,
+            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
+            "bgColor": "#fff",
+            "bgColorRadio": true,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "bgVideoRadio": false,
+            "overlay": false,
+            "overlayOpacity": 0.5,
+            "overlayColor": "#222",
+            "columns": "4",
+            "showImages": true,
+            "showTitles": true,
+            "showSubtitles": true,
+            "ShowTexts": true,
+            "showButtons": false
+          },
+          "media1": {
+            "image": {
+              "src": "@PROJECT_PATH@/assets/images/pila-600x450-63.jpg",
+              "class": "card-img-top",
+              "width": 600,
+              "active": true,
+              "link": "",
+              "alt": "",
+              "title": "",
+              "linkInNewWindow": false
+            }
+          },
+          "title1": "PILARKA ELEKTRYCZNA",
+          "subtitle1": "STIHL MSE 180 C",
+          "caption1": "Parametry:<br><br>&nbsp;Moc 1.8 Kw <br>Waga 4,2 kg <br>Długość prowadnicy 35 cm<br><br><br>Cena: 30zł/doba",
+          "button1": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
+          "media2": {
+            "image": {
+              "src": "@PROJECT_PATH@/assets/images/pilatarczowa-600x441-2.jpg",
+              "class": "card-img-top",
+              "width": 600,
+              "active": true,
+              "link": "",
+              "alt": "",
+              "title": "",
+              "linkInNewWindow": false
+            }
+          },
+          "title2": "UKOŚNICA DXT",
+          "subtitle2": "&nbsp;MAKITA LS1216L",
+          "caption2": "Parametry:<br><br>    Typ zasilania: elektryczne<br>    Średnica tarczy: 305 mm<br>    Średnica otworu piły: 30 mm<br>    Moc: 1650 W<br>    Masa: 26,6 kg<br>    Wysokość cięcia przy 90 °: 102 mm<br>    Długość cięcia przy 90 °: 363 mm<br>    Długość cięcia przy 45 °: 255 mm<br>    Hamulec tarczy tnącej: nie<br>    Laserowy wskaźnik linii cięcia: tak<br>    Silnik bezszczotkowy: nie<br>    Prędkość obrotowa: 3200 rpm<br><br><br>Cena: 80zł/doba",
+          "button2": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
+          "media3": {
+            "image": {
+              "src": "@PROJECT_PATH@/assets/images/wkretarkap-600x442-32.jpg",
+              "class": "card-img-top",
+              "width": 600,
+              "active": true,
+              "link": "",
+              "alt": "",
+              "title": "",
+              "linkInNewWindow": false
+            }
+          },
+          "title3": "WKRĘTARKA PNEUMATYCZNA",
+          "subtitle3": "METABO DS 14",
+          "caption3": "Parametry<br><br>Ciśnienie robocze:&nbsp;6.2 bar<br>Pobór sprężonego powietrza:&nbsp;340 l/min<br>Prędkość obrotowa:&nbsp;1800 /min<br>Moment obrotowy luzowania:&nbsp;5 - 14 Nm<br>Ciężar:&nbsp;1.2 kg<br><br><br>Cena: &nbsp;20zł/doba",
+          "button3": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
+          "media4": {
+            "image": {
+              "src": "@PROJECT_PATH@/assets/images/glazu-600x410-82.jpg",
+              "class": "card-img-top",
+              "width": 600,
+              "active": true,
+              "link": "",
+              "alt": "",
+              "title": "",
+              "linkInNewWindow": false
+            }
+          },
+          "title4": "PRZECINARKA DO GLAZURY",
+          "subtitle4": "DU 200 EVO",
+          "caption4": "Parametry:<br><br>    Średnica otworu tarczy: 25,4 mm<br>    Średnica tarczy: 200 mm<br>    Max długość cięcia: 650 mm<br>    Prędkość obrotowa: 2915 rpm<br>    Max grubość płytki: 35 mm<br>    Masa: 23,5 kg<br><br><br>Cena: 60zł/ doba<br><br>",
+          "button4": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
+          "media5": {
+            "image": {
+              "src": "@THEME_PATH@/components/_images/gallery/windows-books.jpg",
+              "class": "card-img-top",
+              "width": 600,
+              "active": true
+            }
+          },
+          "title5": "Trendy Website Blocks",
+          "subtitle5": "Choose from the large selection of blocks",
+          "caption5": "Choose from the large selection of latest pre-made blocks - jumbotrons, hero images, parallax scrolling, video backgrounds, hamburger menu, sticky header and more.",
+          "button5": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
+          "media6": {
+            "image": {
+              "src": "@THEME_PATH@/components/_images/gallery/room-laptop.jpg",
+              "class": "card-img-top",
+              "width": 600,
+              "active": true
+            }
+          },
+          "title6": "Host Anywhere",
+          "subtitle6": "Don't limit yourself to just one platform",
+          "caption6": "Publish your website to a local drive, FTP or host on Amazon S3, Google Drive, Github. Don't limit yourself to just one platform or service provider.",
+          "button6": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
+          "_styles": {
+            ".striped .mbr-cards-col:nth-child(2n+1)": {
+              "background-color": "#2e2e2e"
+            },
+            ".mbr-cards-col:nth-child(odd) .card-title": {
+              "font-size": "22px"
+            },
+            ".mbr-cards-col:nth-child(odd) .card-subtitle": {
+              "font-size": "20px"
+            },
+            ".mbr-cards-col:nth-child(even) .card-text": {
+              "font-size": "12px"
+            },
+            ".mbr-cards-col:nth-child(odd) .card-text": {
+              "font-size": "12px"
+            },
+            ".mbr-cards-col:nth-child(even) .card-subtitle": {
+              "font-size": "20px"
+            },
+            ".mbr-cards-col:nth-child(even) .card-title": {
+              "font-size": "22px"
+            }
+          }
         },
         {
           "_tags": [
@@ -1195,7 +1433,7 @@
               "stateDetails": ""
             }
           },
-          "text1": "<strong>Addres</strong><br>\nUherce Mineralne<br>38-623 Uherce Mineralne<br><br><br><font color=\"#7c7c7c\" face=\"Montserrat, sans-serif\" size=\"3\"><span style=\"letter-spacing: -1px; line-height: 20px;\"><b>Kontakt</b></span></font><br>Dina Bębenek<br>Email: piotr_bebenek@poczta.fm<br>Telefon: 888 222 718",
+          "text1": "<strong>Adres</strong><br>\nUherce Mineralne<br>38-623 Uherce Mineralne<br><br><br><font color=\"#7c7c7c\" face=\"Montserrat, sans-serif\" size=\"3\"><span style=\"letter-spacing: -1px; line-height: 20px;\"><b>Kontakt</b></span></font><br>Dina Bębenek<br>Email: piotr_bebenek@poczta.fm<br>Telefon: 888 222 718",
           "text2": "<p><br></p><p><br></p><p><br></p><ul><li><a href=\"page1.html\" target=\"_blank\"><b>Kliknij tutaj i wypełnij formularz kontaktowy, a skontaktujemy się z Tobą do 24h</b></a></li><br></ul><p></p>"
         }
       ]
