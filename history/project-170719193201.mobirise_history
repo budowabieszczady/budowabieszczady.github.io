@@ -17,13 +17,12 @@
         "textFont": "Raleway",
         "isRoundedButtons": true,
         "isAnimatedOnScroll": true,
-        "isScrollToTopButton": true,
-        "isRtl": false
+        "isScrollToTopButton": true
       }
     },
     "versionFirst": "3.10.1",
     "uniqCompNum": 70,
-    "versionPublish": "3.12.1",
+    "versionPublish": "3.10.3",
     "favicon": "",
     "noImageResize": "",
     "google-analytics": "<BODY><script>\r\n  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){\r\n  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),\r\n  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)\r\n  })(window,document,'script','https://www.google-analytics.com/analytics.js','ga');\r\n\r\n  ga('create', 'UA-89107358-1', 'auto');\r\n  ga('send', 'pageview');\r\n\r\n</script>"
@@ -448,46 +447,6 @@
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
                 "thumb": "@PROJECT_PATH@/assets/images/zdjcie0556-2000x1500-32-800x600-49.jpg",
                 "image": "@PROJECT_PATH@/assets/images/zdjcie0556-2000x1500-32.jpg",
-                "caption": "Type caption here",
-                "active": false
-              },
-              {
-                "tags": "Creative",
-                "playVideo": false,
-                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
-                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/img-20170716-wa0000-2000x1500-800x600.jpg",
-                "image": "@PROJECT_PATH@/assets/images/img-20170716-wa0000-2000x1500.jpg",
-                "caption": "Type caption here",
-                "active": false
-              },
-              {
-                "tags": "Creative",
-                "playVideo": false,
-                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
-                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/img-20170716-wa0008-2000x1266-800x506.jpg",
-                "image": "@PROJECT_PATH@/assets/images/img-20170716-wa0008-2000x1266.jpg",
-                "caption": "Type caption here",
-                "active": false
-              },
-              {
-                "tags": "Creative",
-                "playVideo": false,
-                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
-                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/img-20170716-wa0001-2000x1500-800x600.jpg",
-                "image": "@PROJECT_PATH@/assets/images/img-20170716-wa0001-2000x1500.jpg",
-                "caption": "Type caption here",
-                "active": false
-              },
-              {
-                "tags": "Creative",
-                "playVideo": false,
-                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
-                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/img-20170716-wa0003-2000x1500-800x600.jpg",
-                "image": "@PROJECT_PATH@/assets/images/img-20170716-wa0003-2000x1500.jpg",
                 "caption": "Type caption here",
                 "active": true
               }
@@ -1172,30 +1131,6 @@
             "Theme"
           ],
           "_name": "features1",
-          "_styles": {
-            ".striped .mbr-cards-col:nth-child(2n+1)": {
-              "background-color": "#2e2e2e"
-            },
-            ".mbr-cards-col:nth-child(odd) .card-title": {
-              "font-size": "22px"
-            },
-            ".mbr-cards-col:nth-child(odd) .card-subtitle": {
-              "font-size": "20px"
-            },
-            ".mbr-cards-col:nth-child(odd) .card-text": {
-              "text-align": "center",
-              "font-size": "12px"
-            },
-            ".mbr-cards-col:nth-child(even) .card-text": {
-              "font-size": "12px"
-            },
-            ".mbr-cards-col:nth-child(even) .card-title": {
-              "font-size": "22px"
-            },
-            ".mbr-cards-col:nth-child(even) .card-subtitle": {
-              "font-size": "20px"
-            }
-          },
           "_anchor": "features1-1u",
           "_params": {
             "columnsColor": "#2e2e2e",
@@ -1213,7 +1148,7 @@
             "overlay": false,
             "overlayOpacity": 0.5,
             "overlayColor": "#222",
-            "columns": "4",
+            "columns": 4,
             "showImages": true,
             "showTitles": true,
             "showSubtitles": true,
@@ -1307,13 +1242,7 @@
           "title6": "Host Anywhere",
           "subtitle6": "Don't limit yourself to just one platform",
           "caption6": "Publish your website to a local drive, FTP or host on Amazon S3, Google Drive, Github. Don't limit yourself to just one platform or service provider.",
-          "button6": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>"
-        },
-        {
-          "_tags": [
-            "Theme"
-          ],
-          "_name": "features1",
+          "button6": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
           "_styles": {
             ".striped .mbr-cards-col:nth-child(2n+1)": {
               "background-color": "#2e2e2e"
@@ -1324,19 +1253,26 @@
             ".mbr-cards-col:nth-child(odd) .card-subtitle": {
               "font-size": "20px"
             },
+            ".mbr-cards-col:nth-child(odd) .card-text": {
+              "text-align": "center",
+              "font-size": "12px"
+            },
             ".mbr-cards-col:nth-child(even) .card-text": {
               "font-size": "12px"
             },
-            ".mbr-cards-col:nth-child(odd) .card-text": {
-              "font-size": "12px"
+            ".mbr-cards-col:nth-child(even) .card-title": {
+              "font-size": "22px"
             },
             ".mbr-cards-col:nth-child(even) .card-subtitle": {
               "font-size": "20px"
-            },
-            ".mbr-cards-col:nth-child(even) .card-title": {
-              "font-size": "22px"
             }
-          },
+          }
+        },
+        {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "features1",
           "_anchor": "features1-1x",
           "_params": {
             "columnsColor": "#2e2e2e",
@@ -1448,7 +1384,30 @@
           "title6": "Host Anywhere",
           "subtitle6": "Don't limit yourself to just one platform",
           "caption6": "Publish your website to a local drive, FTP or host on Amazon S3, Google Drive, Github. Don't limit yourself to just one platform or service provider.",
-          "button6": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>"
+          "button6": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
+          "_styles": {
+            ".striped .mbr-cards-col:nth-child(2n+1)": {
+              "background-color": "#2e2e2e"
+            },
+            ".mbr-cards-col:nth-child(odd) .card-title": {
+              "font-size": "22px"
+            },
+            ".mbr-cards-col:nth-child(odd) .card-subtitle": {
+              "font-size": "20px"
+            },
+            ".mbr-cards-col:nth-child(even) .card-text": {
+              "font-size": "12px"
+            },
+            ".mbr-cards-col:nth-child(odd) .card-text": {
+              "font-size": "12px"
+            },
+            ".mbr-cards-col:nth-child(even) .card-subtitle": {
+              "font-size": "20px"
+            },
+            ".mbr-cards-col:nth-child(even) .card-title": {
+              "font-size": "22px"
+            }
+          }
         },
         {
           "_tags": [

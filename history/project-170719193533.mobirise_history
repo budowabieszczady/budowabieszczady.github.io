@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "DIPTEAM",
-    "currentPage": "page2.html",
+    "currentPage": "index.html",
     "theme": {
       "name": "mobirise3",
       "title": "Mobirise 3",
@@ -1098,17 +1098,17 @@
           "_name": "menu",
           "_anchor": "menu-2",
           "_params": {
+            "logo": true,
+            "showBrand": false,
+            "hideButtons": false,
+            "sticky": true,
+            "collapsed": true,
+            "transparent": true,
             "bgColor": "#282828",
             "fontSize": "0.8",
             "fontName": {},
             "fontColor": "#efefef",
-            "fontHoverColor": "@primaryColor",
-            "transparent": true,
-            "sticky": true,
-            "logo": true,
-            "showBrand": false,
-            "collapsed": true,
-            "hideButtons": false
+            "fontHoverColor": "@primaryColor"
           },
           "logo": {
             "image": {
@@ -1145,23 +1145,23 @@
           "_name": "msg-box8",
           "_anchor": "msg-box8-1v",
           "_params": {
+            "showTitle": true,
+            "showText": true,
+            "showButton": true,
             "paddingTop": "3",
             "paddingBottom": "1",
-            "parallax": true,
             "bgImageRadio": false,
             "bgImage": "@PROJECT_PATH@/assets/images/floor-1256804-1920-2000x1122-45.jpg",
-            "bgColor": "#000000",
+            "parallax": true,
             "bgColorRadio": true,
+            "bgColor": "#000000",
+            "bgVideoRadio": false,
             "bgVideo": {
               "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
             },
-            "bgVideoRadio": false,
             "overlay": true,
-            "overlayOpacity": 0.5,
             "overlayColor": "#222",
-            "showTitle": true,
-            "showText": true,
-            "showButton": true
+            "overlayOpacity": 0.5
           },
           "title": "WYPOŻYCZALNIA SPRZĘTU BUDOWLANEGO",
           "text": "<p>Wybierz sprzęt, którego potrzebujesz i skontaktuj się z nami.</p>",
@@ -1172,53 +1172,29 @@
             "Theme"
           ],
           "_name": "features1",
-          "_styles": {
-            ".striped .mbr-cards-col:nth-child(2n+1)": {
-              "background-color": "#2e2e2e"
-            },
-            ".mbr-cards-col:nth-child(odd) .card-title": {
-              "font-size": "22px"
-            },
-            ".mbr-cards-col:nth-child(odd) .card-subtitle": {
-              "font-size": "20px"
-            },
-            ".mbr-cards-col:nth-child(odd) .card-text": {
-              "text-align": "center",
-              "font-size": "12px"
-            },
-            ".mbr-cards-col:nth-child(even) .card-text": {
-              "font-size": "12px"
-            },
-            ".mbr-cards-col:nth-child(even) .card-title": {
-              "font-size": "22px"
-            },
-            ".mbr-cards-col:nth-child(even) .card-subtitle": {
-              "font-size": "20px"
-            }
-          },
           "_anchor": "features1-1u",
           "_params": {
-            "columnsColor": "#2e2e2e",
-            "paddingTop": "1",
-            "paddingBottom": "1",
-            "bgImageRadio": false,
-            "parallax": true,
-            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
-            "bgColor": "#fff",
-            "bgColorRadio": true,
-            "bgVideo": {
-              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
-            },
-            "bgVideoRadio": false,
-            "overlay": false,
-            "overlayOpacity": 0.5,
-            "overlayColor": "#222",
-            "columns": "4",
             "showImages": true,
             "showTitles": true,
             "showSubtitles": true,
             "ShowTexts": true,
-            "showButtons": false
+            "showButtons": false,
+            "columnsColor": "#2e2e2e",
+            "paddingTop": "1",
+            "paddingBottom": "1",
+            "columns": 4,
+            "bgImageRadio": false,
+            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
+            "parallax": true,
+            "bgColorRadio": true,
+            "bgColor": "#fff",
+            "bgVideoRadio": false,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "overlay": false,
+            "overlayColor": "#222",
+            "overlayOpacity": 0.5
           },
           "media1": {
             "image": {
@@ -1307,13 +1283,7 @@
           "title6": "Host Anywhere",
           "subtitle6": "Don't limit yourself to just one platform",
           "caption6": "Publish your website to a local drive, FTP or host on Amazon S3, Google Drive, Github. Don't limit yourself to just one platform or service provider.",
-          "button6": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>"
-        },
-        {
-          "_tags": [
-            "Theme"
-          ],
-          "_name": "features1",
+          "button6": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
           "_styles": {
             ".striped .mbr-cards-col:nth-child(2n+1)": {
               "background-color": "#2e2e2e"
@@ -1324,42 +1294,49 @@
             ".mbr-cards-col:nth-child(odd) .card-subtitle": {
               "font-size": "20px"
             },
+            ".mbr-cards-col:nth-child(odd) .card-text": {
+              "text-align": "center",
+              "font-size": "12px"
+            },
             ".mbr-cards-col:nth-child(even) .card-text": {
               "font-size": "12px"
             },
-            ".mbr-cards-col:nth-child(odd) .card-text": {
-              "font-size": "12px"
+            ".mbr-cards-col:nth-child(even) .card-title": {
+              "font-size": "22px"
             },
             ".mbr-cards-col:nth-child(even) .card-subtitle": {
               "font-size": "20px"
-            },
-            ".mbr-cards-col:nth-child(even) .card-title": {
-              "font-size": "22px"
             }
-          },
+          }
+        },
+        {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "features1",
           "_anchor": "features1-1x",
           "_params": {
-            "columnsColor": "#2e2e2e",
-            "paddingTop": "1",
-            "paddingBottom": "1",
-            "bgImageRadio": false,
-            "parallax": true,
-            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
-            "bgColor": "#fff",
-            "bgColorRadio": true,
-            "bgVideo": {
-              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
-            },
-            "bgVideoRadio": false,
-            "overlay": false,
-            "overlayOpacity": 0.5,
-            "overlayColor": "#222",
-            "columns": "4",
             "showImages": true,
             "showTitles": true,
             "showSubtitles": true,
             "ShowTexts": true,
-            "showButtons": false
+            "showButtons": false,
+            "columnsColor": "#2e2e2e",
+            "paddingTop": "1",
+            "paddingBottom": "1",
+            "columns": "4",
+            "bgImageRadio": false,
+            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
+            "parallax": true,
+            "bgColorRadio": true,
+            "bgColor": "#fff",
+            "bgVideoRadio": false,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "overlay": false,
+            "overlayColor": "#222",
+            "overlayOpacity": 0.5
           },
           "media1": {
             "image": {
@@ -1448,7 +1425,30 @@
           "title6": "Host Anywhere",
           "subtitle6": "Don't limit yourself to just one platform",
           "caption6": "Publish your website to a local drive, FTP or host on Amazon S3, Google Drive, Github. Don't limit yourself to just one platform or service provider.",
-          "button6": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>"
+          "button6": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
+          "_styles": {
+            ".striped .mbr-cards-col:nth-child(2n+1)": {
+              "background-color": "#2e2e2e"
+            },
+            ".mbr-cards-col:nth-child(odd) .card-title": {
+              "font-size": "22px"
+            },
+            ".mbr-cards-col:nth-child(odd) .card-subtitle": {
+              "font-size": "20px"
+            },
+            ".mbr-cards-col:nth-child(even) .card-text": {
+              "font-size": "12px"
+            },
+            ".mbr-cards-col:nth-child(odd) .card-text": {
+              "font-size": "12px"
+            },
+            ".mbr-cards-col:nth-child(even) .card-subtitle": {
+              "font-size": "20px"
+            },
+            ".mbr-cards-col:nth-child(even) .card-title": {
+              "font-size": "22px"
+            }
+          }
         },
         {
           "_tags": [
@@ -1460,13 +1460,13 @@
             "paddingTop": "2",
             "paddingBottom": "2",
             "bgImageRadio": false,
-            "parallax": true,
             "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
-            "bgColor": "#000000",
+            "parallax": true,
             "bgColorRadio": true,
+            "bgColor": "#000000",
             "overlay": true,
-            "overlayOpacity": 0.8,
             "overlayColor": "#3C3C3C",
+            "overlayOpacity": 0.8,
             "googleMap": {
               "address": "Uherce Mineralne",
               "placeId": "ChIJaYieplj1O0cRb2H-R4QfhOk",
