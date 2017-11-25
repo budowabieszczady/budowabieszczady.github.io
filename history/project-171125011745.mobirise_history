@@ -1185,151 +1185,6 @@
             ".mbr-cards-col:nth-child(odd) .card-subtitle": {
               "font-size": "20px"
             },
-            ".mbr-cards-col:nth-child(even) .card-text": {
-              "font-size": "12px"
-            },
-            ".mbr-cards-col:nth-child(odd) .card-text": {
-              "font-size": "12px"
-            },
-            ".mbr-cards-col:nth-child(even) .card-subtitle": {
-              "font-size": "20px"
-            },
-            ".mbr-cards-col:nth-child(even) .card-title": {
-              "font-size": "22px"
-            }
-          },
-          "_anchor": "features1-1x",
-          "_params": {
-            "columnsColor": "#2e2e2e",
-            "paddingTop": "1",
-            "paddingBottom": "1",
-            "bgImageRadio": false,
-            "parallax": true,
-            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
-            "bgColor": "#fff",
-            "bgColorRadio": true,
-            "bgVideo": {
-              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
-            },
-            "bgVideoRadio": false,
-            "overlay": false,
-            "overlayOpacity": 0.5,
-            "overlayColor": "#222",
-            "columns": "5",
-            "showImages": true,
-            "showTitles": true,
-            "showSubtitles": true,
-            "ShowTexts": true,
-            "showButtons": false
-          },
-          "media1": {
-            "image": {
-              "src": "@PROJECT_PATH@/assets/images/pila-600x450-63.jpg",
-              "class": "card-img-top",
-              "width": 600,
-              "active": true,
-              "link": "",
-              "alt": "",
-              "title": "",
-              "linkInNewWindow": false
-            }
-          },
-          "title1": "PILARKA ELEKTRYCZNA",
-          "subtitle1": "STIHL MSE 180 C",
-          "caption1": "Parametry:<br><br>&nbsp;Moc 1.8 Kw <br>Waga 4,2 kg <br>Długość prowadnicy 35 cm<br><br><br>Cena: 30zł/doba",
-          "button1": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
-          "media2": {
-            "image": {
-              "src": "@PROJECT_PATH@/assets/images/pilatarczowa-600x441-2.jpg",
-              "class": "card-img-top",
-              "width": 600,
-              "active": true,
-              "link": "",
-              "alt": "",
-              "title": "",
-              "linkInNewWindow": false
-            }
-          },
-          "title2": "UKOŚNICA DXT",
-          "subtitle2": "&nbsp;MAKITA LS1216L",
-          "caption2": "Parametry:<br><br>    Typ zasilania: elektryczne<br>    Średnica tarczy: 305 mm<br>    Średnica otworu piły: 30 mm<br>    Moc: 1650 W<br>    Masa: 26,6 kg<br>    Wysokość cięcia przy 90 °: 102 mm<br>    Długość cięcia przy 90 °: 363 mm<br>    Długość cięcia przy 45 °: 255 mm<br>    Hamulec tarczy tnącej: nie<br>    Laserowy wskaźnik linii cięcia: tak<br>    Silnik bezszczotkowy: nie<br>    Prędkość obrotowa: 3200 rpm<br><br><br>Cena: 80zł/doba",
-          "button2": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
-          "media3": {
-            "image": {
-              "src": "@PROJECT_PATH@/assets/images/wkretarkap-600x442-32.jpg",
-              "class": "card-img-top",
-              "width": 600,
-              "active": true,
-              "link": "",
-              "alt": "",
-              "title": "",
-              "linkInNewWindow": false
-            }
-          },
-          "title3": "WKRĘTARKA PNEUMATYCZNA",
-          "subtitle3": "METABO DS 14",
-          "caption3": "Parametry<br><br>Ciśnienie robocze:&nbsp;6.2 bar<br>Pobór sprężonego powietrza:&nbsp;340 l/min<br>Prędkość obrotowa:&nbsp;1800 /min<br>Moment obrotowy luzowania:&nbsp;5 - 14 Nm<br>Ciężar:&nbsp;1.2 kg<br><br><br>Cena: &nbsp;20zł/doba",
-          "button3": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
-          "media4": {
-            "image": {
-              "src": "@PROJECT_PATH@/assets/images/glazu-600x410-82.jpg",
-              "class": "card-img-top",
-              "width": 600,
-              "active": true,
-              "link": "",
-              "alt": "",
-              "title": "",
-              "linkInNewWindow": false
-            }
-          },
-          "title4": "PRZECINARKA DO GLAZURY",
-          "subtitle4": "DU 200 EVO",
-          "caption4": "Parametry:<br><br>    Średnica otworu tarczy: 25,4 mm<br>    Średnica tarczy: 200 mm<br>    Max długość cięcia: 650 mm<br>    Prędkość obrotowa: 2915 rpm<br>    Max grubość płytki: 35 mm<br>    Masa: 23,5 kg<br><br><br>Cena: 60zł/ doba<br><br>",
-          "button4": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
-          "media5": {
-            "image": {
-              "src": "@PROJECT_PATH@/assets/images/rusztowanie-600x386.jpg",
-              "class": "card-img-top",
-              "width": 600,
-              "active": true,
-              "link": "",
-              "alt": "",
-              "title": "",
-              "linkInNewWindow": false
-            }
-          },
-          "title5": "Profesjonalne RUSZTOWANIE",
-          "subtitle5": "",
-          "caption5": "- Rusztowanie spełniające niezbędne standardy bezpieczeństwa,<br>- Duża powierzchnia 20m x 4m.<br>- Wygodne w użytkowaniu (podesty komunikacyjne, barierki, zabezpieczenia, kotwy...)<br>- Lekkie i łatwe w transporcie,",
-          "button5": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
-          "media6": {
-            "image": {
-              "src": "@THEME_PATH@/components/_images/gallery/room-laptop.jpg",
-              "class": "card-img-top",
-              "width": 600,
-              "active": true
-            }
-          },
-          "title6": "Host Anywhere",
-          "subtitle6": "Don't limit yourself to just one platform",
-          "caption6": "Publish your website to a local drive, FTP or host on Amazon S3, Google Drive, Github. Don't limit yourself to just one platform or service provider.",
-          "button6": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>"
-        },
-        {
-          "_tags": [
-            "Theme"
-          ],
-          "_name": "features1",
-          "_styles": {
-            ".striped .mbr-cards-col:nth-child(2n+1)": {
-              "background-color": "#2e2e2e"
-            },
-            ".mbr-cards-col:nth-child(odd) .card-title": {
-              "font-size": "22px"
-            },
-            ".mbr-cards-col:nth-child(odd) .card-subtitle": {
-              "font-size": "20px"
-            },
             ".mbr-cards-col:nth-child(odd) .card-text": {
               "text-align": "center",
               "font-size": "12px"
@@ -1431,6 +1286,147 @@
           "title4": "AGREGAT PRĄDOTWÓRCZY",
           "subtitle4": "EUROTEC QF101-2.5",
           "caption4": "Parametry:<br><br>Moc \t2,8KW / 3,4HP<br>Waga \t35kg<br>Zasilanie \t230V / 50Hz<br>Pojemność \tpaliwa 15 l oleju 0,l<br>Zużycie \t0,8 l<br>Rozruch \tręczny<br>Poziom hałasu \t90db<br><br><br>CENA: 80zł/doba",
+          "button4": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
+          "media5": {
+            "image": {
+              "src": "@THEME_PATH@/components/_images/gallery/windows-books.jpg",
+              "class": "card-img-top",
+              "width": 600,
+              "active": true
+            }
+          },
+          "title5": "Trendy Website Blocks",
+          "subtitle5": "Choose from the large selection of blocks",
+          "caption5": "Choose from the large selection of latest pre-made blocks - jumbotrons, hero images, parallax scrolling, video backgrounds, hamburger menu, sticky header and more.",
+          "button5": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
+          "media6": {
+            "image": {
+              "src": "@THEME_PATH@/components/_images/gallery/room-laptop.jpg",
+              "class": "card-img-top",
+              "width": 600,
+              "active": true
+            }
+          },
+          "title6": "Host Anywhere",
+          "subtitle6": "Don't limit yourself to just one platform",
+          "caption6": "Publish your website to a local drive, FTP or host on Amazon S3, Google Drive, Github. Don't limit yourself to just one platform or service provider.",
+          "button6": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>"
+        },
+        {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "features1",
+          "_styles": {
+            ".striped .mbr-cards-col:nth-child(2n+1)": {
+              "background-color": "#2e2e2e"
+            },
+            ".mbr-cards-col:nth-child(odd) .card-title": {
+              "font-size": "22px"
+            },
+            ".mbr-cards-col:nth-child(odd) .card-subtitle": {
+              "font-size": "20px"
+            },
+            ".mbr-cards-col:nth-child(even) .card-text": {
+              "font-size": "12px"
+            },
+            ".mbr-cards-col:nth-child(odd) .card-text": {
+              "font-size": "12px"
+            },
+            ".mbr-cards-col:nth-child(even) .card-subtitle": {
+              "font-size": "20px"
+            },
+            ".mbr-cards-col:nth-child(even) .card-title": {
+              "font-size": "22px"
+            }
+          },
+          "_anchor": "features1-1x",
+          "_params": {
+            "columnsColor": "#2e2e2e",
+            "paddingTop": "1",
+            "paddingBottom": "1",
+            "bgImageRadio": false,
+            "parallax": true,
+            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
+            "bgColor": "#fff",
+            "bgColorRadio": true,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "bgVideoRadio": false,
+            "overlay": false,
+            "overlayOpacity": 0.5,
+            "overlayColor": "#222",
+            "columns": "4",
+            "showImages": true,
+            "showTitles": true,
+            "showSubtitles": true,
+            "ShowTexts": true,
+            "showButtons": false
+          },
+          "media1": {
+            "image": {
+              "src": "@PROJECT_PATH@/assets/images/pila-600x450-63.jpg",
+              "class": "card-img-top",
+              "width": 600,
+              "active": true,
+              "link": "",
+              "alt": "",
+              "title": "",
+              "linkInNewWindow": false
+            }
+          },
+          "title1": "PILARKA ELEKTRYCZNA",
+          "subtitle1": "STIHL MSE 180 C",
+          "caption1": "Parametry:<br><br>&nbsp;Moc 1.8 Kw <br>Waga 4,2 kg <br>Długość prowadnicy 35 cm<br><br><br>Cena: 30zł/doba",
+          "button1": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
+          "media2": {
+            "image": {
+              "src": "@PROJECT_PATH@/assets/images/pilatarczowa-600x441-2.jpg",
+              "class": "card-img-top",
+              "width": 600,
+              "active": true,
+              "link": "",
+              "alt": "",
+              "title": "",
+              "linkInNewWindow": false
+            }
+          },
+          "title2": "UKOŚNICA DXT",
+          "subtitle2": "&nbsp;MAKITA LS1216L",
+          "caption2": "Parametry:<br><br>    Typ zasilania: elektryczne<br>    Średnica tarczy: 305 mm<br>    Średnica otworu piły: 30 mm<br>    Moc: 1650 W<br>    Masa: 26,6 kg<br>    Wysokość cięcia przy 90 °: 102 mm<br>    Długość cięcia przy 90 °: 363 mm<br>    Długość cięcia przy 45 °: 255 mm<br>    Hamulec tarczy tnącej: nie<br>    Laserowy wskaźnik linii cięcia: tak<br>    Silnik bezszczotkowy: nie<br>    Prędkość obrotowa: 3200 rpm<br><br><br>Cena: 80zł/doba",
+          "button2": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
+          "media3": {
+            "image": {
+              "src": "@PROJECT_PATH@/assets/images/wkretarkap-600x442-32.jpg",
+              "class": "card-img-top",
+              "width": 600,
+              "active": true,
+              "link": "",
+              "alt": "",
+              "title": "",
+              "linkInNewWindow": false
+            }
+          },
+          "title3": "WKRĘTARKA PNEUMATYCZNA",
+          "subtitle3": "METABO DS 14",
+          "caption3": "Parametry<br><br>Ciśnienie robocze:&nbsp;6.2 bar<br>Pobór sprężonego powietrza:&nbsp;340 l/min<br>Prędkość obrotowa:&nbsp;1800 /min<br>Moment obrotowy luzowania:&nbsp;5 - 14 Nm<br>Ciężar:&nbsp;1.2 kg<br><br><br>Cena: &nbsp;20zł/doba",
+          "button3": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
+          "media4": {
+            "image": {
+              "src": "@PROJECT_PATH@/assets/images/glazu-600x410-82.jpg",
+              "class": "card-img-top",
+              "width": 600,
+              "active": true,
+              "link": "",
+              "alt": "",
+              "title": "",
+              "linkInNewWindow": false
+            }
+          },
+          "title4": "PRZECINARKA DO GLAZURY",
+          "subtitle4": "DU 200 EVO",
+          "caption4": "Parametry:<br><br>    Średnica otworu tarczy: 25,4 mm<br>    Średnica tarczy: 200 mm<br>    Max długość cięcia: 650 mm<br>    Prędkość obrotowa: 2915 rpm<br>    Max grubość płytki: 35 mm<br>    Masa: 23,5 kg<br><br><br>Cena: 60zł/ doba<br><br>",
           "button4": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
           "media5": {
             "image": {
